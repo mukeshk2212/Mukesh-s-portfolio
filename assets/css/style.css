@@ -4,7 +4,9 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #272829;
+  color: #000203;
+  background-color: rgba(174, 174, 192, 0.1);
+  /* background: linear-gradient(to right,  rgba(158, 52, 3, 0.3), rgba(236, 4, 132, 0.4)); */
 }
 
 a {
@@ -943,12 +945,12 @@ section {
   font-size: 20px;
   font-weight: bold;
   margin: 10px 0 5px 0;
-  color: #111;
+  color: #000000;
 }
 
 .testimonials .testimonial-item h4 {
   font-size: 14px;
-  color: #999;
+  color: #000000;
   margin: 0 0 15px 0;
 }
 
