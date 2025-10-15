@@ -7,8 +7,9 @@ body {
   /* font-family: "Times New Roman", Times, serif; */
 
   color: #000203;
-  /* background-color: rgba(174, 174, 192, 0.1); */
+  background-color: rgba(128, 179, 221, 0.1);
   /* background: linear-gradient(to right,  rgba(158, 52, 3, 0.3), rgba(236, 4, 132, 0.4)); */
+  /* background-color: #05071e; */
 }
 
 a {
@@ -1195,4 +1196,12 @@ section {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 50%;
+}
+
+.form-control{
+  line-height: 1;
+}
+
+.text-center{
+  height: 15px;
 }
